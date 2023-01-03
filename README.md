@@ -6,7 +6,7 @@ This repository houses a set of tests that are run on CPMD  to verify that chang
 
 ## Copyright Notice
 
-The CPMD program is © 1990-2022 by IBM Corp. and © 1994-2001 by Max Planck Institute, Stuttgart. 
+The CPMD program is © 1990-2023 by IBM Corp. and © 1994-2001 by Max Planck Institute, Stuttgart. 
 
 
 ## License
