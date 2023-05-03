@@ -1,3 +1,6 @@
+# Local runs of testsuite
+local/
+
 # Prerequisites
 *.d
 

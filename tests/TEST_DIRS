@@ -790,7 +790,6 @@ SP/libxc/nh3-u-5
 SP/libxc/nh3-u-6
 SP/libxc/h2o-0
 SP/libxc/h2o-1
-SPECT/VAO/AT-1
 ED/XFMQC/spect-1
 ED/XFMQC/md-1
 ED/EHDY-1
@@ -828,8 +827,12 @@ BO/libxc/u-3
 BO/libxc/u-4
 BO/libxc/u-5
 SP/tdforce-1
-SPECT/VAO/RESTART-1/1
-SPECT/VAO/RESTART-1/2
+SPECT/VOA/AT-1
+SPECT/VOA/RESTART-1/1
+SPECT/VOA/RESTART-1/2
+SPECT/VOA/PBC/WFN
+SPECT/VOA/PBC/AT
+SPECT/VOA/PBC/MD
 SP/functionals/CPFunc/M05
 SP/functionals/CPFunc/M05_2X
 SP/functionals/CPFunc/M05_2X_LSD
